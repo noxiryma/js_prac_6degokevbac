@@ -26,3 +26,29 @@ window.onclick = function(event) {
 } 
 
 
+//Add event listeners here 
+
+//Add let variables here 
+
+//Add user score and score display here
+
+//runGame for round 1 here 
+
+//runGame for round 2 here 
+
+//runGame for round 3 here 
+
+//runGame for round 4 here 
+
+//runGame for round 5 here 
+
+//runGame for round 6 here 
+
+//endGame function here 
+
+//resetGame function here 
+
+//gameOver function here 
+
+
+
